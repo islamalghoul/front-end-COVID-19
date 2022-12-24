@@ -1,0 +1,20 @@
+.world{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.card1{
+
+    display: flex;
+    justify-content: space-around;
+    padding-right: 90px;
+}
+h6{
+    background-color: #e44b7b;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
